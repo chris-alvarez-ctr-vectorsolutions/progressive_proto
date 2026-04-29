@@ -26,6 +26,13 @@
     background-color: theme('colors.sulfur');
     color: theme('colors.ink.950');
   }
+
+  /* Prevent iOS Safari from auto-zooming when a control is focused. */
+  input,
+  select,
+  textarea {
+    font-size: 16px;
+  }
 }
 
 @layer utilities {
