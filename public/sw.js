@@ -1,6 +1,6 @@
 // Bump this version string whenever you ship breaking changes.
 // Old caches will be cleared on activation.
-const CACHE_VERSION = 'proto-v1'
+const CACHE_VERSION = 'proto-v2'
 const APP_SHELL = [
   './',
   './index.html',
