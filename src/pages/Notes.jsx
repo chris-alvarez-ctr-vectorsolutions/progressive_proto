@@ -52,7 +52,7 @@ export default function Notes() {
           }}
           rows={3}
           placeholder="Type a note. ⌘/Ctrl + Enter to save."
-          className="w-full bg-transparent text-bone text-[13px] placeholder:text-ink-500 resize-none focus:outline-none"
+          className="w-full bg-transparent text-bone text-[16px] placeholder:text-ink-500 resize-none focus:outline-none"
         />
         <div className="flex justify-between items-center pt-2 border-t hairline">
           <span className="text-[10px] uppercase tracking-[0.18em] text-ink-500">
